@@ -1,0 +1,42 @@
+.input-form {
+    position: absolute;
+    background-color: #ffffff;
+    padding: 20px;
+    top: 10%;
+    left: 10%;
+    border-radius: 4px 40px;
+    border: solid 1px #c47572;
+} 
+ 
+input {
+   border: solid 2px #c47572;
+   padding: 5px;
+   
+}
+
+textarea {
+     border: solid 2px #c47572;
+}
+
+#input-row1 {
+    padding: 10px 0;
+}
+
+#input-row1 label {
+  margin-right: 22px;
+  color: #c47572;
+}
+
+#input-row2 {
+   position: relative;
+}
+
+#input-row2 label {
+    position: absolute;
+    left: -5px;
+    color: #c47572;
+}
+
+#input-row2 textarea {
+    margin-left: 55px;
+}

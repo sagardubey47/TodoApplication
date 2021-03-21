@@ -1,0 +1,9 @@
+.loading {
+   height: 87vh;
+   margin-top: 50px;
+   align-self: center;
+   flex: 0.7;
+   font-size: 25px;
+   font-family: cursive;
+    color: #813232;
+}

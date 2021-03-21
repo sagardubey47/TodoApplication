@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+.lower-half {
+  display: flex;
+  background-color: #d6cece;
+}
+
+button {
+  background-color: #eb8f8c;
+  border: solid 1px #aa2924;
+  padding: 6px 15px;
+  border-radius: 4px 12px;
+  color: #5e1a18;
+  margin: 5px;
+  font-size: 1rem;
+}

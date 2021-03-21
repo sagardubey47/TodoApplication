@@ -1,0 +1,18 @@
+.main-menu {
+    height: 87vh;
+    justify-self: left;
+    flex: 0.7;
+}
+
+#main-time {
+    padding: 10px;
+}
+
+#main-title {
+    padding: 10px;
+    text-transform: capitalize;
+}
+
+#main-content {
+    padding: 10px;
+}
